@@ -104,48 +104,11 @@ This project involves designing and implementing a database for a train booking 
 
 ---
 
-## **How to Run the Project**
 
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   ```
-
-2. Import the `booking.sql` file into a database management system (e.g., MySQL):
-   ```bash
-   mysql -u <username> -p <database_name> < booking.sql
-   ```
-
-3. Run queries to test relationships and data integrity.
-
----
-
-## **Evaluation Criteria**
-
-1. **Database Design (30%)**
-   - Accurate ERD.
-   - Proper use of primary and foreign keys.
-
-2. **Sample Data (20%)**
-   - Meaningful and diverse sample data.
-   - Correct usage of relationships.
-
-3. **ERD (20%)**
-   - Reflects the database schema.
-   - Clear and readable.
-
-4. **Presentation (20%)**
-   - Explanation of database design.
-   - Team collaboration.
-
-5. **Adherence to Timeline (10%)**
-   - Completion of tasks on schedule.
-
----
 
 ## **Tools Used**
 - **Database Management System:** MySQL
-- **ERD Tools:** Lucidchart, MySQL Workbench, dbdiagram.io, or draw.io
+- **ERD Tools:** Lucidchart
 - **Version Control:** GitHub
 
 ---
